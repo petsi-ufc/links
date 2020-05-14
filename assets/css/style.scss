@@ -30,7 +30,7 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-}
+    align-items: center;
 
 .content {
     max-width: 960px;
@@ -43,5 +43,9 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    flex-basis: 100%;
+
+}
+
+.link-list a{
+    width: 100%;
 }
