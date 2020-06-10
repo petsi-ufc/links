@@ -12,3 +12,5 @@ title: PET - Sistemas de Informação
 ---
 
 <a href="https://bit.ly/2MGu1DV" class="btn"><i class="fas fa-laptop-house"></i> Palestra - Como contribuir com a comunidade open source</a>
+
+<a href="https://bit.ly/2YkPvf0" class="btn"><i class="fas fa-laptop-house"></i> Palestra - Computação em nuvem</a>
