@@ -14,4 +14,4 @@ title: PET - Sistemas de Informação
 ---
 <a href="https://bit.ly/2YkPvf0" class="btn"><i class="fab fa-youtube"></i> Assitir no Youtube - React+Redux+Firebase Authentication (Parte 1)</a>
 
-<a href="https://bit.ly/2zEjVAn" class="btn"><i class="fas fa-laptop-house"></i> Inscrever-se no Minicurso- React+Redux+Firebase Authentication (Parte 2)</a>
+<a href="https://bit.ly/2zEjVAn" class="btn"><i class="fas fa-laptop-house"></i> Inscrever-se no Minicurso - React+Redux+Firebase Authentication (Parte 2)</a>
