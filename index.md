@@ -12,6 +12,9 @@ title: PET - Sistemas de Informação
 <a href="https://www.linkedin.com/in/pet-si-2920571ab" class="btn"><i class="fab fa-linkedin"></i> Linkedin</a>
 
 ---
-<a href="https://youtu.be/2ZjYm5Lp6zI" class="btn"><i class="fab fa-youtube"></i> Assistir no Youtube - React+Redux+Firebase Authentication (Parte 1)</a>
 
-<a href="https://bit.ly/2zEjVAn" class="btn"><i class="fas fa-laptop-house"></i> Inscrever-se no Minicurso - React+Redux+Firebase Authentication (Parte 2)</a>
+<a href="https://bit.ly/2BeDike" class="btn"><i class="fas fa-laptop-house"></i> Inscrever-se no Minicurso - React Formulários + Formik</a>
+
+<a href="https://bit.ly/3esvvO5" class="btn"><i class="fas fa-laptop-house"></i> Inscrever-se na Palestra - Técnicas e dicas de como ser autodidata</a>
+
+<a href="https://bit.ly/2YDrFMR" class="btn"><i class="fas fa-laptop-house"></i> Inscrever-se na Palestra - Projetos prático de TCC envolvendo desenvolvimento web, mobile e aprendizado de máquina</a>
