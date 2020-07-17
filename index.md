@@ -14,13 +14,8 @@ title: PET - Sistemas de Informação
 
 ---
 
-<a href="https://bit.ly/3esvvO5" class="btn"><i class="fas fa-laptop-house"></i> Inscrever-se na Palestra - Técnicas e dicas de como ser autodidata</a>
+<a href="https://bit.ly/3gYKvEo" class="btn"><i class="fas fa-laptop-house"></i> Inscrever-se na Palestra - Tudo
+junto e misturado" com Ciência de Dados: casos de uso de pesquisas e 
+aplicações</a>
 
 
----
-# Pesquisa para o SBIE 2020 + Sorteio de R$ 100,00
-## Experiência com o curso preparatório para OBI na UFC-Quixadá
- 
-<a href="http://bit.ly/avobi2020" class="btn"><i class="fas fa-clipboard-check"></i> Form 2020</a>
-
-<a href="http://bit.ly/avobi2020" class="btn"><i class="fas fa-clipboard-check"></i> Form anos anteriores</a>
