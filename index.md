@@ -14,8 +14,7 @@ title: PET - Sistemas de Informação
 
 ---
 
-<a href="https://bit.ly/3gYKvEo" class="btn"><i class="fas fa-laptop-house"></i> Inscrever-se na Palestra - Tudo
-junto e misturado" com Ciência de Dados: casos de uso de pesquisas e 
-aplicações</a>
+<a href="https://bit.ly/3fBuOTp" class="btn"><i class="fas fa-laptop-house"></i> Inscrever-se na Palestra - Carreira, mercado de
+trabalho e exterior</a>
 
 
