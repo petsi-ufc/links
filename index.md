@@ -14,9 +14,4 @@ title: PET - Sistemas de Informação
 
 ---
 
-<a href="https://bit.ly/3fBuOTp" class="btn"><i class="fas fa-laptop-house"></i> Inscrever-se na Palestra - Carreira, mercado de
-trabalho e exterior</a>
-
-<a href="https://bit.ly/2Wmvk05" class="btn"><i class="fas fa-laptop-house"></i> Inscrever-se na Palestra - Pesquisas na área de administração em SI</a>
-
-
+<a href="https://bit.ly/2CSPlEJ" class="btn"><i class="fas fa-laptop-house"></i> Inscrever-se na Palestra - Transformar um código STUPID em SOLID</a>
