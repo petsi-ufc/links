@@ -14,4 +14,4 @@ title: PET - Sistemas de Informação
 
 ---
 
-<a href="https://bit.ly/2CSPlEJ" class="btn"><i class="fas fa-laptop-house"></i> Inscrever-se na Palestra - Transformar um código STUPID em SOLID</a>
+<a href="https://bit.ly/2XQiZSf" class="btn"><i class="fas fa-laptop-house"></i> Inscrever-se na Palestra - O que faz um arquiteto de testes de software</a>
